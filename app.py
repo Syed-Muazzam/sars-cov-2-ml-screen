@@ -7,7 +7,6 @@ import pickle
 
 st.set_page_config(page_title="SARS-CoV-2 AI Screen", page_icon="🧬", layout="wide")
 
-# Inject Custom CSS for Font and UI Polish
 st.markdown("""
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
