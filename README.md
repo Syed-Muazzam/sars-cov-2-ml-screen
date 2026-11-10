@@ -23,4 +23,4 @@ Traditional drug discovery is time-consuming and resource-intensive. This projec
 
 ### 👤 Author
 **Syed Mu’azzam**  
-*Bridging Life Sciences & Data Analytics*
+*Bridging Life Sciences & Data*
